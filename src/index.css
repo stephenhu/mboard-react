@@ -7,7 +7,7 @@ body {
   font-family: sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: -webkit-linear-gradient( top, #204060, #005994 );
+  background: -webkit-linear-gradient( top, #132639, #204060 );
   color: #ffffff;
 }
 
@@ -73,18 +73,18 @@ a {
 }
 
 .shade {
-  background: #1f4060;
+  background: #19334c;
   border-radius: 5px;
 }
 
 /* bootstrap overrides */
 
 .container {
-  background: -webkit-linear-gradient( top, #204060, #005994 );
+  background: -webkit-linear-gradient( top, #132639, #204060 );
   color: #ffffff;
 }
 
 .jumbotron {
-  background: -webkit-linear-gradient( top, #204060, #005994 );
+  background: -webkit-linear-gradient( top, #132639, #204060 );
   color: #ffffff;
 }
