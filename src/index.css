@@ -7,7 +7,7 @@ body {
   font-family: sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: -webkit-linear-gradient( top, #132639, #204060 );
+  background: -webkit-linear-gradient(top, #204060, #132639);
   color: #ffffff;
 }
 
@@ -80,11 +80,11 @@ a {
 /* bootstrap overrides */
 
 .container {
-  background: -webkit-linear-gradient( top, #132639, #204060 );
+  background: -webkit-linear-gradient(top,#204060, #132639);
   color: #ffffff;
 }
 
 .jumbotron {
-  background: -webkit-linear-gradient( top, #132639, #204060 );
+  background: -webkit-linear-gradient(top, #204060, #132639);
   color: #ffffff;
 }
